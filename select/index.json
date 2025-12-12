@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "STAR WALKIN' (League of Legends Worlds Anthem)",
+  "base_artist": "Lil Nas X",
+  "createdAt": "2025-12-12T14:38:53.098607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/01_STAR_WALKIN'_(League_of_Legends_Worlds_Anthem)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/02_STAR_WALKIN'_(League_of_Legends_Worlds_Anthem)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/03_STAR_WALKIN'_(League_of_Legends_Worlds_Anthem)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/04_STAR_WALKIN'_(League_of_Legends_Worlds_Anthem)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/05_STAR_WALKIN'_(League_of_Legends_Worlds_Anthem)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/06_Lil_Nas_X_-_STAR_WALKIN'_(League_of_Legends_Worlds_Anthem)_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Star Walkin' (League of Legends Worlds Anthem)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/07_Star_Walkin'_(League_of_Legends_Worlds_Anthem)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "artist": "LIL NAS X",
+      "has_synced": false,
+      "path": "select/pl_01_STAR_WALKIN'_(League_of_Legends_Worlds_Anthem)_LIL_NAS_X.txt"
+    }
+  ]
+}
